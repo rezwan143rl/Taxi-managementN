@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1687636951 source:c:\users\user\desktop\taxi-managent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dos.h>
+	<conio.h>
+	"graphics.h"
+	"Login_signup.h"
+	"menu.h"
+
+1687635929 c:\users\user\desktop\taxi-managent\login_signup.h
+
+1687626674 c:\users\user\desktop\mylib\graphics.h
+
+1687661228 c:\users\user\desktop\taxi-managent\menu.h
+
+1687626674 c:\users\user\desktop\taxi-managent\graphics.h
+
+1687668370 source:c:\users\islam\onedrive\desktop\taxi-managent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dos.h>
+	<conio.h>
+	"graphics.h"
+	"Login_signup.h"
+	"menu.h"
+	"list.h"
+
+1687626674 c:\users\islam\onedrive\desktop\taxi-managent\graphics.h
+
+1687668641 c:\users\islam\onedrive\desktop\taxi-managent\login_signup.h
+
+1687668915 c:\users\islam\onedrive\desktop\taxi-managent\menu.h
+
+1687669626 c:\users\islam\onedrive\desktop\taxi-managent\list.h
+
